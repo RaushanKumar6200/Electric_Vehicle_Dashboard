@@ -1,7 +1,7 @@
 # Electric_Vehicle_Dashboard
 This is a power bi end to end project.
 Like this video :)
-Sales Analysis Dashboard using power bi.
+It is a Sales Analysis Dashboard using power bi.
 This power bi project analyzes sales data to identify trends and improve business decisions.
 The dataset collected from an excel file.
 The main isights in the dashboard are as follows:- Total Sales, profit, revenue trends,top selling products and regions
